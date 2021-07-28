@@ -3,9 +3,9 @@
 
 <!-- Add your details -->
 ✉️: gracechanszesze@gmail.com 
-#&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+<!-- &nbsp;&nbsp; 📲 +91-XXXXXXXXXX -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/grace-chan-88a041130/) 
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/) -->
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
