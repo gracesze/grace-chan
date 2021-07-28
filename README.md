@@ -4,7 +4,7 @@
 <!-- Add your details -->
 ✉️: gracechanszesze@gmail.com <br>
 <!-- &nbsp;&nbsp; 📲 +65 9656 2528 -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/grace-chan-88a041130/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔗: [LinkedIn](https://www.linkedin.com/in/grace-chan-88a041130/) 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/) -->
 <!-- CONTACT Section Ends -->
 
@@ -16,9 +16,13 @@
 
 <!-- Add your details -->
 
-I am __Grace Chan__, 
+I am __Grace Chan__, a data driven professional with 3 years of experience in research and data analysis to generate insights on situations for formulation of effective solutions and improvements. I am an organised and meticulous professional that has worked both independently and as a team to ensure that tasks are completed thoroughly and in a timely manner. A bubbly and positive colleague that is able to keep things positive despite the time-pressed and high-stress work environment.
 
-<!-- a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams. -->
+<!-- a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams. 
+
+A data driven professional with 3 years of experience in research and data analysis to generate insights on situations for formulation of effective solutions and improvements.
+An organised and meticulous professional that has worked both independently and as a team to ensure that tasks are completed thoroughly and in a timely manner.
+A bubbly and positive colleague that is able to keep things positive despite the time-pressed and high-stress work environment.-->
 
 
 <!-- Add link to the sections -->
@@ -37,20 +41,27 @@ RADIATION PROTECTION AND NUCLEAR SCIENCE DEPARTMENT<br>
 EXECUTIVE SCIENTIFIC OFFICER<br>
 October 2018 to April 2021: 2 years 7 Months
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+- Reduced the unlicensed imports of controlled goods by 75% through implementation of a control regime based on data analysis of the importer information and source of import <br>
+- Reduced the manpower required for pre-licensing inspection of controlled goods by 95% through collaboration with other government agencies to streamline the pre-licensing process <br>
+- Digitised 100% of the issuance of approvals by moving the application from to digital platforms <br>
+- Increased public awareness on import and export regulatory requirements of controlled goods through crafting and publication of information on the company’s website <br>
 
 ##### GREEN CAPSULE 
 ADMINISTRATIVE ASSOCIATE<br>
 May 2018 to September 2018: 5 Months (Contract)
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+- Formulated 7 company policies and procedures for stock and inventory management <br>
+- Achieved an average monthly sale of $20,000 through coordination and management of 210 products on online sale platforms
 
 ##### NATIONAL ENVIRONMENT AGENCY
 METEOROLOGICAL SERVICES SINGAPORE, CENTRE FOR CLIMATE RESEARCH SINGAPORE<br>
 INTERN<br>
 January 2017 to June 2017: 6 Months
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+- Developed an algorithm to calibrate radar derived rainfall data by analysing the relationship between past rain gauge rainfall data and radar derived rainfall data <br>
+- Established an algorithm to model and forecast rainfall data as part of the SINGV (Singapore Variable Resolution Model) numerical weather prediction system <br>
+- Communicated the analysis findings and the modelled rainfall data during an in-house seminar
+
 
 <!-- EXPERIENCE Section Ends -->
 
@@ -58,7 +69,9 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### EDUCATION
 <!-- Add your details -->
 ##### NANYANG TECHNOLOGICAL UNIVERSITY
-Engineering Graduate 2010-14, First Division
+School of Physical and Mathematics Sciences 
+Physics and Applied Physics
+August 2013 to July 2017
 
 <!-- EDUCATION Section Ends -->
 
