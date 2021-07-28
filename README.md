@@ -38,8 +38,8 @@ A bubbly and positive colleague that is able to keep things positive despite t
 ### EXPERIENCE
 <!-- Add your details -->
 ##### NATIONAL ENVIRONMENT AGENCY
-RADIATION PROTECTION AND NUCLEAR SCIENCE DEPARTMENT<br>
-EXECUTIVE SCIENTIFIC OFFICER<br>
+Radiation Protection and Nuclear Science Division<br>
+Executive Scientific Officer<br>
 October 2018 to April 2021
 
 - Reduced the unlicensed imports of controlled goods by 75% through implementation of a control regime based on data analysis of the importer information and source of import <br>
@@ -48,15 +48,15 @@ October 2018 to April 2021
 - Increased public awareness on import and export regulatory requirements of controlled goods through crafting and publication of information on the company’s website <br>
 
 ##### GREEN CAPSULE 
-ADMINISTRATIVE ASSOCIATE<br>
+Administrative Associate<br>
 May 2018 to September 2018
 
 - Formulated 7 company policies and procedures for stock and inventory management <br>
 - Achieved an average monthly sale of $20,000 through coordination and management of 210 products on online sale platforms
 
 ##### NATIONAL ENVIRONMENT AGENCY
-METEOROLOGICAL SERVICES SINGAPORE, CENTRE FOR CLIMATE RESEARCH SINGAPORE<br>
-INTERN<br>
+Meteorological Services Singapore, Centre for Climate Research Singapore<br>
+Intern<br>
 January 2017 to June 2017
 
 - Developed an algorithm to calibrate radar derived rainfall data by analysing the relationship between past rain gauge rainfall data and radar derived rainfall data <br>
