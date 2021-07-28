@@ -31,11 +31,16 @@ I am __Grace Chan__, a seasoned data scientist with ~7 years of progressive expe
 ### EXPERIENCE
 <!-- Add your details -->
 ##### NATIONAL ENVIRONMENT AGENCY
+RADIATION PROTECTION AND NUCLEAR SCIENCE DEPARTMENT
 EXECUTIVE SCIENTIFIC OFFICER<br>
 October-2018 to April-2021: 2 years 7 Months
 
-ROLE: Regulator
-UNIT: RADIATION PROTECTION AND NUCLEAR SCIENCE DEPARTMENT
+Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+
+
+##### GREEN CAPSULE 
+ADMINISTRATIVE ASSOCIATE<br>
+May-2018 to September-2018: 5 Months (Contract)
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
