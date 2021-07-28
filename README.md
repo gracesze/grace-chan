@@ -17,7 +17,7 @@
 
 <!-- Add your details -->
 
-I am __Grace Chan__, a data driven professional with 3 years of experience in research and data analysis to generate insights on situations for formulation of effective solutions and improvements. I am an organised and meticulous professional that has worked both independently and as a team to ensure that tasks are completed thoroughly and in a timely manner. A bubbly and positive colleague that is able to keep things positive despite the time-pressed and high-stress work environment.
+I am __Grace Chan__, a data driven professional with 3 years of experience in research and data analysis to generate insights on situations for formulation of effective solutions and improvements. I am an organised and meticulous professional that has worked both independently and as a team to ensure that tasks are completed thoroughly in a timely manner. A bubbly and positive colleague that is able to keep things positive despite the time-pressed and high-stress work environment.
 
 <!-- a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams. 
 
