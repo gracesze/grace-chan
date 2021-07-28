@@ -31,16 +31,22 @@ I am __Grace Chan__, a seasoned data scientist with ~7 years of progressive expe
 ### EXPERIENCE
 <!-- Add your details -->
 ##### NATIONAL ENVIRONMENT AGENCY
-RADIATION PROTECTION AND NUCLEAR SCIENCE DEPARTMENT
+RADIATION PROTECTION AND NUCLEAR SCIENCE DEPARTMENT<br>
 EXECUTIVE SCIENTIFIC OFFICER<br>
 October-2018 to April-2021: 2 years 7 Months
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
-
 ##### GREEN CAPSULE 
 ADMINISTRATIVE ASSOCIATE<br>
 May-2018 to September-2018: 5 Months (Contract)
+
+Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+
+##### NATIONAL ENVIRONMENT AGENCY
+METEOROLOGICAL SERVICES SINGAPORE, CENTRE FOR CLIMATE RESEARCH SINGAPORE<br>
+INTERN<br>
+January-2017 to June-2017: 6 Months
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
@@ -49,7 +55,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
+##### NANYANG TECHNOLOGICAL UNIVERSITY
 Engineering Graduate 2010-14, First Division
 
 <!-- EDUCATION Section Ends -->
@@ -60,6 +66,7 @@ Engineering Graduate 2010-14, First Division
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
+[BCG RISE project](#bcg-rise-projects) <br>
 
 <!-- Add your details -->
 
@@ -77,13 +84,19 @@ Regression is a supervised learning technique which helps in finding the correla
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
+#### BCG RISE Project
+
+I am part of the BDA track on the BCG RISE project
+
+[for more details refer to this link](https://bcg.com)
+
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+RISE by DigitalBCG Academy
 
 ##### Achievements
 Star performer of the year at Accenture
