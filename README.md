@@ -109,11 +109,11 @@ I am part of the BDA track on the BCG RISE project
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
-## FEATURED
+<!-- ## FEATURED -->
 <!-- Add your details -->
-##### Certifications
+<!-- ##### Certifications
 RISE by DigitalBCG Academy
 
 ##### Achievements
-Star performer of the year at Accenture
+Star performer of the year at Accenture -->
 <!-- FEATURED Section Ends -->
