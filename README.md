@@ -40,7 +40,7 @@ A bubbly and positive colleague that is able to keep things positive despite t
 ##### NATIONAL ENVIRONMENT AGENCY
 Radiation Protection and Nuclear Science Division<br>
 Executive Scientific Officer<br>
-October 2018 to April 2021
+*October 2018 - April 2021*
 
 - Reduced the unlicensed imports of controlled goods by 75% through implementation of a control regime based on data analysis of the importer information and source of import <br>
 - Reduced the manpower required for pre-licensing inspection of controlled goods by 95% through collaboration with other government agencies to streamline the pre-licensing process <br>
@@ -49,7 +49,7 @@ October 2018 to April 2021
 
 ##### GREEN CAPSULE 
 Administrative Associate<br>
-May 2018 to September 2018
+*May 2018 - September 2018*
 
 - Formulated 7 company policies and procedures for stock and inventory management <br>
 - Achieved an average monthly sale of $20,000 through coordination and management of 210 products on online sale platforms
@@ -57,7 +57,7 @@ May 2018 to September 2018
 ##### NATIONAL ENVIRONMENT AGENCY
 Meteorological Services Singapore, Centre for Climate Research Singapore<br>
 Intern<br>
-January 2017 to June 2017
+*January 2017 - June 2017*
 
 - Developed an algorithm to calibrate radar derived rainfall data by analysing the relationship between past rain gauge rainfall data and radar derived rainfall data <br>
 - Established an algorithm to model and forecast rainfall data as part of the SINGV (Singapore Variable Resolution Model) numerical weather prediction system <br>
@@ -72,7 +72,7 @@ January 2017 to June 2017
 ##### NANYANG TECHNOLOGICAL UNIVERSITY
 School of Physical and Mathematics Sciences <br>
 Physics and Applied Physics <br>
-August 2013 to July 2017
+*August 2013 - July 2017*
 
 <!-- EDUCATION Section Ends -->
 
