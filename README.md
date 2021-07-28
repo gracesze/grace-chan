@@ -2,7 +2,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: gracechanszesze@gmail.com 
+✉️: gracechanszesze@gmail.com <br>
 <!-- &nbsp;&nbsp; 📲 +65 9656 2528 -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/grace-chan-88a041130/) 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/) -->
@@ -16,7 +16,9 @@
 
 <!-- Add your details -->
 
-I am __Grace Chan__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Grace Chan__, 
+
+<!-- a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams. -->
 
 
 <!-- Add link to the sections -->
@@ -33,20 +35,20 @@ I am __Grace Chan__, a seasoned data scientist with ~7 years of progressive expe
 ##### NATIONAL ENVIRONMENT AGENCY
 RADIATION PROTECTION AND NUCLEAR SCIENCE DEPARTMENT<br>
 EXECUTIVE SCIENTIFIC OFFICER<br>
-October-2018 to April-2021: 2 years 7 Months
+October 2018 to April 2021: 2 years 7 Months
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
 ##### GREEN CAPSULE 
 ADMINISTRATIVE ASSOCIATE<br>
-May-2018 to September-2018: 5 Months (Contract)
+May 2018 to September 2018: 5 Months (Contract)
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
 ##### NATIONAL ENVIRONMENT AGENCY
 METEOROLOGICAL SERVICES SINGAPORE, CENTRE FOR CLIMATE RESEARCH SINGAPORE<br>
 INTERN<br>
-January-2017 to June-2017: 6 Months
+January 2017 to June 2017: 6 Months
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
