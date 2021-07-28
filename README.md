@@ -3,7 +3,7 @@
 
 <!-- Add your details -->
 ✉️: gracechanszesze@gmail.com 
-<!-- &nbsp;&nbsp; 📲 +91-XXXXXXXXXX -->
+<!-- &nbsp;&nbsp; 📲 +65 9656 2528 -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/grace-chan-88a041130/) 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/) -->
 <!-- CONTACT Section Ends -->
