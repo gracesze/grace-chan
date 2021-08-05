@@ -80,13 +80,15 @@ Physics and Applied Physics <br>
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
+Coming soon!
+
+<!--[Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 [BCG RISE project](#bcg-rise-projects) <br>
 
 <!-- Add your details -->
 
-#### Classification based projects
+<!--#### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
