@@ -13,7 +13,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/gracesze/grace-chan/blob/main/images/85EDB255-3536-4083-8E86-503C39BFDD2E.jpeg?raw=true)
+<!--REMEMBER TO ADD YOUR PHOTO HERE-->
+<!--![alt text](https://github.com/gracesze/grace-chan/blob/main/images/85EDB255-3536-4083-8E86-503C39BFDD2E.jpeg?raw=true)
 
 <!-- Add your details -->
 
