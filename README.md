@@ -31,7 +31,7 @@ A bubbly and positive colleague that is able to keep things positive despite t
 [Experience](#experience) <br>
 [Education](#education) <br>
 [Passion Projects](#passion-projects) <br>
-<!---[Featured](#featured) <br> 
+<!--[Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
