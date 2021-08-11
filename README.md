@@ -30,14 +30,23 @@ A bubbly and positive colleague that is able to keep things positive despite t
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
 [Education](#education) <br>
-[Projects](#projects) <br>
-[Featured](#featured) <br> 
+[Passion Projects](#passion-projects) <br>
+<!---[Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
+##### DIGITAL BCG (BOSTON CONSULTING GROUP) ACADEMY
+Rapid & Immersive Skill Enhancement (RISE) Program <br>
+Business and Data Analysis Learner<br>
+*April 2021 - Present*
+
+- Analysed Apple’s revenue and market share to develop insights and propose recommendations for Apple to target the children’s market as a future strategy to increase Apple’s market share by 20% (simulation)<br>
+- Conducted user research and developed a proposed digital shopping butler solution for local supermarket, Sheng Siong, to reduce time taken during each supermarket run by 30 minutes while instilling customer brand loyalty (simulation)<br>
+- Conducted user research and developed the proposed ADVAwards programme for Adva, a sustainable lifestyle app by Olam International, to increase user engagement leading to behavioral change and adoption of a more sustainable lifestyle (Hackathon)<br>
+
 ##### NATIONAL ENVIRONMENT AGENCY
 Radiation Protection and Nuclear Science Division<br>
 Executive Scientific Officer<br>
@@ -70,6 +79,11 @@ Intern<br>
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
+##### DIGITAL BCG (BOSTON CONSULTING GROUP) ACADEMY
+Rapid & Immersive Skill Enhancement (RISE) Program <br>
+Business and Data Analysis <br>
+*April 2021 - Present*
+
 ##### NANYANG TECHNOLOGICAL UNIVERSITY
 School of Physical and Mathematics Sciences <br>
 Physics and Applied Physics <br>
@@ -78,7 +92,7 @@ Physics and Applied Physics <br>
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### PROJECTS
+### PASSION PROJECTS
 <!-- Add your details -->
 
 Coming soon!
@@ -89,7 +103,14 @@ Coming soon!
 
 <!-- Add your details -->
 
-<!--#### Classification based projects
+#### Electricity Consumption in Singapore
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+
+In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+
+#### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
